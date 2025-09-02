@@ -36,4 +36,4 @@ With 4+ years in IT and a strong focus on backend development, I’m transitioni
 ### 📫 Let’s Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fathimath-zahara/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/fathimathzaharacb)  
-📧 Email: *your.email@example.com*  
+📧 Email: *zaharafz91@gmail.com*  
